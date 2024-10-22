@@ -1,0 +1,33 @@
+liste lien :
+par categorie
+Dure moyenne san en ploie ni retraite | proportien de pers à la retraite à 61 ans
+Dure moyenne san en ploie ni retraite | Duré moyenn sen emploie hore 
+Dure moyenne san en ploie ni retraite | proportion de personne à la retraite à 61
+-----------------------------------------------------------------------------------
+Duréée moyenne en emploie hors cumule | Auge conjoncturel de départ à la retraite
+Durée moyenne en emploie hors cumule  | portion de persone à la retraie à 61 ans
+Durée moyenne en empliie hors cumule  | Durée moyenne sans emploue ni retraite
+----------------------------------------------------------------------------------
+protion de êrsp,e de retraites à 61 ans | duree moyen en emploi ehors cumul
+proportion de retraites à 61 ans | durene moyen dans emplou ni retraire
+proprote de retres à 61 | age conjoncturel de départ à la retrates
+---------------------------------------------------------------------------------
+age conjoncturel de départ à la retraite | duree_moyenne_en_emploi_hors_duree
+age conjoncturel de départ à la  retraire | duree_moyenne_sans_emploi_ni_retraite
+---------------------------------------------------------------------------------
+proportoitn de personne fortemetn limite | duree_moyenne _sans_emploue_ni_retraite
+---------------------------------------------------------------------------
+proportein de personne non limite | duree_moyenne_snas_employe_ni_retraite
+
+
+hue annee:
+dure_mouenne_sans emploie ni retriate| autre moyenne en emploi hurs duree
+----------------------------------------------------------------
+ retriane moyen en emploie hors cumule| autre moyenne sans emploi ni retraite
+retriane moyen en emploie hors cumule| proportion de retraire a 61
+retriane moyen en emploie hors cumule| age conjonturel de départ à la retraite
+---------------------------------------------------------------------------
+propotion de retriate à 61 | all
+-----------------------------------------------------------------
+age conjoncutrel de dépear à la retiare | proporitn deraire à 61 
+age conjoncutrel de dépear à la retiare | duree_moyenne_en_emploie_hors_duree
