@@ -12,8 +12,8 @@ import altair as alt
 
 import seaborn as sns
 
-st.set_page_config(page_title="Retirement Visualisation", page_icon=":older_man:")
-st.markdown("# Data visualisation")
+st.set_page_config(page_title="about me", page_icon=":mirror:")
+st.markdown("# about me")
 st.sidebar.header("Data visualisaiton")
 
 st.sidebar.success("Select a page above.")
